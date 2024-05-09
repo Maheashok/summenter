@@ -1,0 +1,53 @@
+.navbar-nav{
+    text-decoration-color: green;
+    
+}
+.nav-link, button{
+    color: green;
+
+    justify-content: space-between;
+    margin-bottom: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    
+}
+
+.nav-item active  href{
+    margin-left: 50px;
+    align-content:space-around
+}
+h2{
+    
+        color: green; /* Text color */
+        font-size: 28px; /* Font size */
+        font-weight: bold; /* Font weight */
+        text-align: center; /* Text alignment */
+        margin-top: 20px; /* Top margin */
+        margin-bottom: 30px; /* Bottom margin */
+      
+}
+/* .image p{
+    float:right;
+    position: relative;
+} */
+
+.image{
+    display: flex;
+    align-items: center; /* Align items vertically in the center */
+    background-color: white;
+  }
+  
+  .image img {
+    flex: 1; /* Take up 50% of the container width */
+    padding-right: 20px; /* Add some space between the image and content */
+  }
+  
+  .image p h3{
+    flex: 1; /* Take up 50% of the container width */
+  }
+  btn btn-primary{
+    margin-top: 50%;
+  }
+  
+
+  
